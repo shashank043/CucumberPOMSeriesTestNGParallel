@@ -1,25 +1,25 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "f392079b-206e-4123-b603-7bf0f5366823",
+    "id": "0bb1d334-ed8b-4d28-90ed-a1e94a701c98",
     "feature": "Login page feature",
     "scenario": "Login page title",
-    "start": 1621757650045,
+    "start": 1621758704607,
     "group": 15,
     "content": "",
     "tags": "@smoke,",
-    "end": 1621757662697,
+    "end": 1621758719062,
     "className": "passed"
   },
   {
-    "id": "d0f51084-c931-4da9-9d94-8a06bad1ab7c",
+    "id": "4340c48d-209e-46a1-b07a-1e058892c049",
     "feature": "Login page feature",
     "scenario": "Forget Password link",
-    "start": 1621757649936,
+    "start": 1621758704488,
     "group": 16,
     "content": "",
     "tags": "@smoke,",
-    "end": 1621757663036,
+    "end": 1621758718399,
     "className": "passed"
   }
 ]);
